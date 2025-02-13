@@ -20,4 +20,6 @@ tot_interest = 0.0
 
 # input - get monthly amt, period, and interest rate
 monthly_amt = float(input("Enter the monthly amount: "))
-annual_int_rate = 
+annual_int_rate = float(input("Enter the annual interest rate: ")) ]
+years = int(input("Enter the number of years: "))
+
